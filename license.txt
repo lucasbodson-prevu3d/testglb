@@ -1,0 +1,11 @@
+Model Information:
+* title:	nick d egdekok
+* source:	https://sketchfab.com/3d-models/nick-d-egdekok-df25acc827db408d93c51be56be7bb27
+* author:	jiri_petteri (https://sketchfab.com/jiri_petteri)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "nick d egdekok" (https://sketchfab.com/3d-models/nick-d-egdekok-df25acc827db408d93c51be56be7bb27) by jiri_petteri (https://sketchfab.com/jiri_petteri) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
